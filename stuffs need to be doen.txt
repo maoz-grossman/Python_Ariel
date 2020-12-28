@@ -1,0 +1,52 @@
+basics:
+1. build-in
+2. errors -try and catch
+3. Object-Oriented Programming
+4. files 
+5. debugs
+
+
+ design patterns in python: 
+0. s.o.l.i.d
+1. Decorator
+2. Generator
+3. builder
+4. factories
+5. Prototype
+6. Singleton
+7. Adapter
+8. Bridge
+9. Composite
+10. Facade
+11. Flyweight
+12. Proxy
+13. Chain of Responsibility
+14. Command
+15. Interpreter
+16. Iterator
+17. Mediator
+18. Mementp
+19. Observer
+20. State
+21. Strategy
+22. Visitor
+23. Template Method
+
+
+advanced programming: 
+1. regex
+2. threads and processes
+3. sqlite
+
+pypi: 
+1.numpy
+2.pandas
+3.scipy
+4.flask
+5.create a module package for pypi
+
+runtime improvment:
+1.cython
+2.pypy
+3.numpa
+
