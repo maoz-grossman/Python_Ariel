@@ -1,7 +1,6 @@
 basics:
 2. errors -try and catch
 3. Object-Oriented Programming
-4. files 
 5. debugs
 
 
@@ -37,11 +36,12 @@ advanced programming:
 2. threads and processes
 3. sqlite
 
-pypi: 
+numstack: 
 1.numpy
 2.pandas
 3.scipy
 4.flask
+5. matplotlib
 5.create a module package for pypi
 
 runtime improvment:
