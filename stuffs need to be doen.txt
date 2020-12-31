@@ -1,5 +1,4 @@
 basics:
-2. errors -try and catch
 3. Object-Oriented Programming
 5. debugs
 
