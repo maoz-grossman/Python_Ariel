@@ -1,12 +1,20 @@
 basics:
-3. Object-Oriented Programming
-5. debugs
+2. annotation: typing
+3. Object-Oriented Programming: 
+     magic function (__<>__):
+	__name__
+	__operatoe__
+4. debugs
+    unitest
+    loging
+    doctest
+    
 
 
  design patterns in python: 
 0. s.o.l.i.d
-1. Decorator
-2. Generator
+1. Decorator v
+2. Generator v
 3. builder
 4. factories
 5. Prototype
@@ -20,12 +28,12 @@ basics:
 13. Chain of Responsibility
 14. Command
 15. Interpreter
-16. Iterator
+16. Iterator v
 17. Mediator
 18. Mementp
 19. Observer
 20. State
-21. Strategy
+21. Strategy v
 22. Visitor
 23. Template Method
 
@@ -35,16 +43,22 @@ advanced programming:
 2. threads and processes
 3. sqlite
 
+
 numstack: 
 1.numpy
 2.pandas
 3.scipy
-4.flask
+4. networx
+
 5. matplotlib
-5.create a module package for pypi
+
 
 runtime improvment:
 1.cython
 2.pypy
 3.numpa
+
+network:
+4.flask/ django
+5.create a module package for pypi
 
