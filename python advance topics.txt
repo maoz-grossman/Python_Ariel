@@ -1,0 +1,10 @@
+1. How Everything in python is Object? - V
+2. Comprehension (Multiple and Nested)
+3. Extended Keyword Arguments (*args, **kwargs) - V
+4. Closures and Decorators - VX
+5. Generators and Iterators Protocol - 
+6. Context Managers - 
+7. @staticmethod and @classmethod - V
+8. Inheritance and Encapsulation - v
+9. Operator Overloading - 
+10. Python Packages and Program layout - 
