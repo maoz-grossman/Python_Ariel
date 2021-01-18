@@ -1,9 +1,7 @@
 basics:
 1. about modules
 3. Object-Oriented Programming: 
-     magic function (__<>__):
-	__name__
-	__operatoe__
+     magic function (__<>__):            VV
 4. debugs
     unitest
     loging
@@ -14,7 +12,7 @@ v - TODO
 v v- Done
  design patterns in python: 
 0. s.o.l.i.d
-1. Decorator v v
+1. Decorator                                     v v
 2. Generator v
 3. builder
 4. factories
