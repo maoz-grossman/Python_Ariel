@@ -1,7 +1,7 @@
 basics:
 1. about modules
-3. Object-Oriented Programming: 
-     magic function (__<>__):            VV
+3. Object-Oriented Programming:      VV 
+     magic function (__<>__):             VV
 4. debugs
     unitest
     loging
