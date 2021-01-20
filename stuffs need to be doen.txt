@@ -13,7 +13,7 @@ v v- Done
  design patterns in python: 
 0. s.o.l.i.d
 1. Decorator                                     v v
-2. Generator v
+2. Generator v                                   v v
 3. builder
 4. factories
 5. Prototype
@@ -27,7 +27,7 @@ v v- Done
 13. Chain of Responsibility
 14. Command
 15. Interpreter
-16. Iterator v
+16. Iterator v                                      v v
 17. Mediator
 18. Mementp
 19. Observer
