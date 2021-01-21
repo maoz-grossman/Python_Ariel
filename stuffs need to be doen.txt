@@ -32,7 +32,7 @@ v v- Done
 18. Mementp
 19. Observer
 20. State
-21. Strategy v
+21. Strategy v               		VV
 22. Visitor
 23. Template Method
 
@@ -48,7 +48,6 @@ numstack:
 2.pandas
 3.scipy
 4. networx
-
 5. matplotlib
 
 
