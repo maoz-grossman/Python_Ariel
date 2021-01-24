@@ -1,4 +1,8 @@
-﻿1.regex
+﻿0. debug:
+	►unitest
+	►logs
+	►doctest
+1.regex
 2.threads and multy threads
 3.sqlite
 4.run time improvment:
