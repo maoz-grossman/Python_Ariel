@@ -3,10 +3,12 @@
 	►logs
 	►doctest
 1.regex
-2.threads and multy threads
+2.threads and multy threads ?
 3.sqlite
-4.run time improvment:
+4.run time improvment: 
 	► cython
 	► pypy
 	► numpa
-5. web scraping
+5. web scraping ?
+
+basic: 6. __init__.py

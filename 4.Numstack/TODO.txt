@@ -1,5 +1,6 @@
-1. numpy
-2. scipy
+1. numpy           V
+2. scipy             
 3. networkx
 4. panda
-5. matplotlib
+5. matplotlib       V
+6. cvxpy
