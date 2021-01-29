@@ -3,4 +3,4 @@
 3. networkx       V
 4. panda            V
 5. matplotlib       V
-6. cvxpy
+6. cvxpy             V
