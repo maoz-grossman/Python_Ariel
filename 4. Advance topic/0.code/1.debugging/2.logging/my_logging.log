@@ -1,0 +1,8 @@
+INFO, time: 2021-01-31 20:25:54,978 , line: 12- This is a message 
+INFO, time: 2021-01-31 20:25:59,159 , line: 4- quadratic_formula(1,0,-4) 
+DEBUG, time: 2021-01-31 20:25:59,159 , line: 5- Compute the discriminant 
+DEBUG, time: 2021-01-31 20:25:59,159 , line: 7- Compute the two roots 
+DEBUG, time: 2021-01-31 20:25:59,159 , line: 10- Return the two roots 
+INFO, time: 2021-01-31 20:31:03,650 , line: 4- quadratic_formula(1,0,1) 
+DEBUG, time: 2021-01-31 20:31:03,653 , line: 5- Compute the discriminant 
+DEBUG, time: 2021-01-31 20:31:03,653 , line: 7- Compute the two roots 

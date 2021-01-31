@@ -1,7 +1,7 @@
 ﻿0. debug:
 	►unitest
-	►logs
-	►doctest
+	►logs              V
+	►doctest         V
 1.regex
 2.threads and multy threads ?
 3.sqlite
