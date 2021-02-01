@@ -1,5 +1,5 @@
 ﻿0. debug:
-	►unitest
+	►unitest          V
 	►logs              V
 	►doctest         V
 1.regex
