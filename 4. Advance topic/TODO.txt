@@ -1,10 +1,10 @@
 ﻿0. debug:
-	►unitest          V
-	►logs              V
-	►doctest         V
+	►unitest                     V
+	►logs                        V
+	►doctest         	    V
 1.regex
-2.threads and multy threads ?
-3.sqlite
+2.threads and multy threads      V
+3.sqlite			    V
 4.run time improvment: 
 	► cython
 	► pypy
