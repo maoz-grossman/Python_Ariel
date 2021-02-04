@@ -2,7 +2,7 @@
 	►unitest                     V
 	►logs                        V
 	►doctest         	    V
-1.regex
+1.regex                                   V
 2.threads and multy threads      V
 3.sqlite			    V
 4.run time improvment: 
