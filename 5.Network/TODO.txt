@@ -1,4 +1,5 @@
-FLASK / 
-DJANGO?
+FLASK-
+1. virtual env
+2. intro to flask
 
 Pypi
