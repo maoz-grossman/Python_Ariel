@@ -1,5 +1,7 @@
 FLASK-
 1. virtual env
 2. intro to flask
-
+3. templates
+4. database
+5. 
 Pypi
