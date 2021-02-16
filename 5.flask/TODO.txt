@@ -3,5 +3,6 @@ FLASK-
 2. intro to flask
 3. templates
 4. database
-5. 
+5. forms
+6. authentication
 Pypi
