@@ -3,9 +3,9 @@ basics:
 3. Object-Oriented Programming:      VV 
      magic function (__<>__):             VV
 4. debugs
-    unitest
-    loging
-    doctest
+    unitest                                          v
+    loging                                           v
+    doctest                                         v
  
    
 v - TODO
@@ -44,19 +44,19 @@ advanced programming:
 
 
 numstack: 
-1.numpy
-2.pandas
-3.scipy
-4. networx
-5. matplotlib
+1.numpy v
+2.pandas v
+3.scipy    v
+4. networx    v
+5. matplotlib  v
 
 
 runtime improvment:
-1.cython
-2.pypy
-3.numpa
+1.cython  v
+2.pypy     v
+3.numpa  v
 
 network:
-4.flask/ django
+4.flask/ django -flask
 5.create a module package for pypi
 

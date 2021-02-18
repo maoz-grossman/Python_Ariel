@@ -5,4 +5,6 @@ FLASK-
 4. database
 5. forms
 6. authentication
+7.files uploading
+8. update posts
 Pypi
