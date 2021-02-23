@@ -1,10 +1,10 @@
 FLASK-
-1. virtual env
-2. intro to flask
-3. templates
-4. database
-5. forms
-6. authentication
-7.files uploading
-8. update posts
+1. virtual env                     V
+2. intro to flask                  V
+3. templates                      V
+4. database                       V 
+5. forms                            V
+6. authentication                 V
+7.files uploading                 V
+8. update posts                  V
 Pypi
