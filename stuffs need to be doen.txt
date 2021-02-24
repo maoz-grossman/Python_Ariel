@@ -57,6 +57,6 @@ runtime improvment:
 3.numpa  v
 
 network:
-4.flask/ django -flask
+4.flask                         v
 5.create a module package for pypi
 
