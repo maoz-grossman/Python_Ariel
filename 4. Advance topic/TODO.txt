@@ -10,5 +10,3 @@
 	► pypy                       v
 	► numba                    v
 5. web scraping ?
-
-basic: 6. __init__.py
