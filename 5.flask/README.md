@@ -27,7 +27,7 @@
 הערוץ מכיל כמות אדירה של חומר בנושא פייתון (ועוד ...) בכל רמה אפשרית.
 לצערנו כמות החומר שאפשר להעביר בשיעור מוגבלת מאוד, ולא הספקנו לעבור על כל החומר של סדרת השיעורים של קורי.
 נמליץ בחום על
- [פלייליסט](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&ab_channel=CoreySchafer)
+ [playlist](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&ab_channel=CoreySchafer)
   השיעורים בנושא flask , ועל הערוץ בכלל.  
 
 
