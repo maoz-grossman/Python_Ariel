@@ -1,4 +1,4 @@
-<div dir='rtl' lang='he'>
+﻿<div dir='rtl' lang='he'>
 
 # תכנות אלגוריתמים מחקריים- החלק התכנותי
 ## flask-  
@@ -6,6 +6,7 @@
 בחלק זה נתעמק בנושאים הבאים:
 
 - **Vitual Enviroment**
+- **REST API**
 - **Introduction to flask**
 - **Templates**
    - דפי html דינאמיים 
